@@ -1,0 +1,6 @@
+{
+  "name": "Couture Intelligent",
+  "description": "An advanced, AI-powered high-fashion platform and intelligent virtual closet that acts as a haute couture AI style assistant, designing bespoke outfits, analyzing fashion trends, and organizing wardrobe catalogs with precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
